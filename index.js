@@ -33,8 +33,8 @@ function sayHiToGrandma(string){
 }
 else (string === "I love you, Grandma."){
   return "I love you, too."
+ }
 }
-=======
 
 function sayHiToGrandma(string){
   console.log(string.toLowerCase()) 
@@ -46,5 +46,4 @@ function sayHiToGrandma(string){
     return "YES INDEED!"}
     if(sayHiToGrandma.toLowerCase() === sayHiToGrandma){
     return "I can't hear you!"}
->>>>>>> 3c0621584bf7182d07d4dbb421e3aff69ade8c51
 }
